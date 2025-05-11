@@ -1,6 +1,6 @@
 var config = {
   texts: [
-    "Bạn Hân À",
+    "Bạn Nguyên An À",
     "Chúc mừng sinh nhật bạn nho",
     "Sức khoẻ dồi dào",
     "Mãi xinh, mãi giỏi, mãi đỉnh hơn nho",
